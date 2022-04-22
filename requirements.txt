@@ -21,7 +21,7 @@ ordereddict==1.1
 pdfkit==0.6.1
 Pillow==6.1.0
 pycparser==2.19
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 Pyphen==0.9.5
 python-dotenv==0.10.3
 python-pdf==0.37
